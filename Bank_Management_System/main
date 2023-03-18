@@ -212,7 +212,7 @@ void login()
             }
         }
     }
-    if (!flag) // if oaacount was not found
+    if (!flag) // if account was not found
     {
         printf("Account not found!!! Returning to home page...");
         delay(1);
